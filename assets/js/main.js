@@ -16,7 +16,7 @@ console.log("Sample JavaScript #2 HW #16");
 var userObj = {
   firstName: "Yuriy",
   lastName: "Motyl",
-  age: 110,
+  age: 34,
 };
 
 console.log(userObj);
